@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="hi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Experts Stock Market</title>
+  <style>
+    body{margin:0;font-family:system-ui,Arial;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#f6f7fb;}
+    .card{width:min(620px,92vw);background:#fff;border-radius:18px;padding:26px;box-shadow:0 10px 30px rgba(0,0,0,.08);text-align:center;}
+    .logo{width:120px;height:120px;object-fit:cover;border-radius:18px;margin:6px auto 14px;display:block;box-shadow:0 8px 20px rgba(0,0,0,.10);}
+    h1{margin:0 0 8px;font-size:26px;}
+    .tag{margin:0 0 14px;color:#333;line-height:1.55;font-weight:600;}
+    .points{max-width:480px;margin:14px auto 18px;text-align:left;color:#333;line-height:1.65;}
+    .points li{margin:6px 0;}
+    a.btn{display:inline-block;padding:14px 22px;border-radius:14px;text-decoration:none;font-weight:800;background:#111;color:#fff;}
+    .small{margin-top:12px;font-size:13px;color:#666;}
+    .note{font-size:12px;color:#777;margin-top:10px;}
+  </style>
+</head>
+<body>
+  <div class="card">
+
+    <!-- Photo/Logo -->
+    <img class="logo" src="logo.jpg" alt="Experts Logo" />
+
+    <h1>Experts Stock Market</h1>
+    <p class="tag">Research Based Guidance | Risk Management First</p>
+
+    <ul class="points">
+      <li>Daily Market View + Key Levels (Nifty/BankNifty)</li>
+      <li>High-Probability Stock Setups (Delivery / Intraday)</li>
+      <li>Proper Stoploss + Target Planning (No Guessing)</li>
+      <li>Beginner to Advanced Support</li>
+    </ul>
+
+    <a class="btn"
+       href="https://wa.me/918153880235?text=Hello%20Experts%2C%20mujhe%20stock%20market%20guidance%20chahiye."
+       target="_blank" rel="noopener">
+      Start Now (WhatsApp)
+    </a>
+
+    <div class="small">Click → WhatsApp open ✅</div>
+    <div class="note">Disclaimer: Market risk hai. Profit guarantee nahi hoti.</div>
+  </div>
+</body>
+</html>
